@@ -8,29 +8,47 @@
 }
 
 .main-title {
-  font-size: 5rem;
+  font-size: 4rem;
   margin: 0.5rem;
 }
 
 .author {
-  font-size: 2rem;
-  color: rgb(102, 94, 94);
-  margin: 0.5rem;
-}
-
-.date {
   font-size: 1.5rem;
   color: rgb(102, 94, 94);
   margin: 0.5rem;
 }
 
-.head-pictures {
+.date {
+  font-size: 1rem;
+  color: rgb(102, 94, 94);
+  margin: 0.5rem;
+}
+
+.header-pictures {
   margin-bottom: 1rem;
 }
 
 .pic-description {
   font-size: 1rem;
   margin: 0rem;
+}
+
+main {
+  font-size: 1.2rem;
+}
+
+table td,
+table th {
+  padding: 0;
+}
+
+.table-header {
+  color: white;
+  background-color: rgb(95, 180, 246);
+}
+
+.table-uneven-row {
+  background-color: rgb(191, 246, 251);
 }
 
 #suggestion-item-1 {

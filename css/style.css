@@ -3,19 +3,32 @@
   background-color: rgb(57, 136, 198);
   /* color: white;
   font-size: 30px; */
+
   background-image: url(../img/pattern.png);
 }
 
 .main-title {
   font-size: 5rem;
+  margin: 0.5rem;
 }
 
 .author {
   font-size: 2rem;
   color: rgb(102, 94, 94);
+  margin: 0.5rem;
 }
 
 .date {
   font-size: 1.5rem;
   color: rgb(102, 94, 94);
+  margin: 0.5rem;
+}
+
+.head-pictures {
+  margin-bottom: 1rem;
+}
+
+.pic-description {
+  font-size: 1rem;
+  margin: 0rem;
 }

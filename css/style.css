@@ -32,3 +32,16 @@
   font-size: 1rem;
   margin: 0rem;
 }
+
+#suggestion-item-1 {
+  background-image: url(/img/monitor.jpg);
+  height: 200px;
+  background-repeat: no-repeat;
+  margin-bottom: 1rem;
+}
+
+#suggestion-item-2 {
+  background-image: url(/img/graph.jpg);
+  height: 200px;
+  background-repeat: no-repeat;
+}

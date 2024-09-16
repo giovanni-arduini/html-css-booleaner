@@ -1,14 +1,22 @@
-.hero {
-  height: 200px;
-  background-color: rgb(57, 136, 198);
-  /* color: white;
-  font-size: 30px; */
+body {
+  width: 60%;
+  margin: auto;
+}
 
+.hero {
+  height: 150px;
+  background-color: rgb(57, 136, 198);
   background-image: url(../img/pattern.png);
 }
 
+.logo {
+  width: 18rem;
+  display: block;
+  padding-top: 4.5rem;
+}
+
 .main-title {
-  font-size: 4rem;
+  font-size: 3.5rem;
   margin: 0.5rem;
 }
 
@@ -60,10 +68,10 @@ table th {
   background-color: rgb(191, 246, 251);
 }
 
-.suggestion p {
+/* .suggestion p {
   font-size: 1.4rem;
   color: rgb(43, 39, 39);
-}
+} */
 
 #suggestion-item-1 {
   background-image: url(/img/monitor.jpg);

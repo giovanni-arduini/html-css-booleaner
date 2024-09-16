@@ -1,0 +1,21 @@
+.hero {
+  height: 200px;
+  background-color: rgb(57, 136, 198);
+  /* color: white;
+  font-size: 30px; */
+  background-image: url(../img/pattern.png);
+}
+
+.main-title {
+  font-size: 5rem;
+}
+
+.author {
+  font-size: 2rem;
+  color: rgb(102, 94, 94);
+}
+
+.date {
+  font-size: 1.5rem;
+  color: rgb(102, 94, 94);
+}

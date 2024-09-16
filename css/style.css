@@ -37,9 +37,18 @@ main {
   font-size: 1.2rem;
 }
 
+table {
+  width: 100%;
+}
+
 table td,
 table th {
   padding: 0;
+  width: 18rem;
+}
+
+.last-coloumn {
+  width: 25rem;
 }
 
 .table-header {

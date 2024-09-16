@@ -60,15 +60,26 @@ table th {
   background-color: rgb(191, 246, 251);
 }
 
+.suggestion p {
+  font-size: 1.4rem;
+  color: rgb(43, 39, 39);
+}
+
 #suggestion-item-1 {
   background-image: url(/img/monitor.jpg);
   height: 200px;
   background-repeat: no-repeat;
   margin-bottom: 1rem;
+  color: white;
+  font-size: 2rem;
+  padding: 0.8rem;
 }
 
 #suggestion-item-2 {
   background-image: url(/img/graph.jpg);
   height: 200px;
   background-repeat: no-repeat;
+  color: white;
+  font-size: 2rem;
+  padding: 0.8rem;
 }
